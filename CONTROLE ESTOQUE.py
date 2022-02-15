@@ -12,6 +12,7 @@ banco = mysql.connector.connect(
     database = "cadastro_produto"
 )
 
+
 def relatorio_nome():
 
     cursor = banco.cursor()
