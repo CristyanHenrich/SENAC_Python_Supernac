@@ -1,0 +1,1 @@
+segunda_tela.triggered.connect()
